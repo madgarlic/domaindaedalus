@@ -1,33 +1,26 @@
 Domaindaedalus
 ==============
 
-Domaindaedalus will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Domaindaedalus will help you find the perfect domain name starting from am idea expressed in one or more words.
 
 Look how easy it is to use:
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+  * just go to the [main page](https://domaindaedalus.glitch.me)
+  * fill in the form
+  * click on subit to obtain a list of possible domains
 
 Features
 --------
 
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
+- Multilingual
+- Show domain availability
+- Show stats for unavailable domains
 
 Contribute
 ----------
 
-- [Issue Tracker](github.com/$project/$project/issues)
-- [Source Code](github.com/$project/$project)
+- [Issue Tracker](ghttps://github.com/madgarlic/domaindaedalus/issues)
+- [Source Code](https://github.com/madgarlic/domaindaedalus)
 
 Support
 -------
@@ -38,4 +31,4 @@ You can reach me at: mario.daglio@me.com
 License
 -------
 
-Use it and abuse it
+Licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license.
