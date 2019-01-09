@@ -19,7 +19,7 @@ Features
 Contribute
 ----------
 
-- [Issue Tracker](ghttps://github.com/madgarlic/domaindaedalus/issues)
+- [Issue Tracker](https://github.com/madgarlic/domaindaedalus/issues)
 - [Source Code](https://github.com/madgarlic/domaindaedalus)
 
 Support
