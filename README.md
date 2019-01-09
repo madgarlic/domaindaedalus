@@ -1,2 +1,41 @@
-# domaindaedalus
-Find the perfect domain name starting from am idea, one or more words.
+Domaindaedalus
+==============
+
+Domaindaedalus will solve your problem of where to start with documentation,
+by providing a basic explanation of how to do it easily.
+
+Look how easy it is to use:
+
+    import project
+    # Get your stuff done
+    project.do_stuff()
+
+Features
+--------
+
+- Be awesome
+- Make things faster
+
+Installation
+------------
+
+Install $project by running:
+
+    install project
+
+Contribute
+----------
+
+- [Issue Tracker](github.com/$project/$project/issues)
+- [Source Code](github.com/$project/$project)
+
+Support
+-------
+
+If you are having issues, please let me know.
+You can reach me at: mario.daglio@me.com
+
+License
+-------
+
+Use it and abuse it
